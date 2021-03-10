@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Soccer Quiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="goaaal">Goaaal!!!</string>
+    <string name="one_more_time_m">One more time?</string>
+    <string name="ball_features_n">Ball Features</string>
+    <string name="soccer_quiz">Soccer Quiz</string>
+    <string name="you_ve_miss">You\'ve miss:(</string>
+    <string name="one_more_time">One more time?</string>
+    <string name="rules_m">Rules</string>
+    <string name="ball_features_m">Ball Features</string>
+    <string name="rules">Rules</string>
+    <string name="ball_features">Ball Features</string>
+    <string name="pass">Pass!</string>
+    <string name="soccer_quiz_g">Soccer Quiz</string>
+    <string name="soccer_quiz_m">Soccer Quiz</string>
+    <string name="lets_play">Lets play!</string>
+</resources>
