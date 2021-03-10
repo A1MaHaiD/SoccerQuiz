@@ -26,7 +26,7 @@ class GoalFragment : Fragment() {
 
         binding.oneMoreTimeButtonG.setOnClickListener {
             view:View ->
-            view.findNavController().navigate(R.id.action_goalFragment_to_quizFragment)
+            view.findNavController().navigate(R.id.action_goalFragment_to_welcomeScreenFragment)
         }
         (activity as AppCompatActivity).supportActionBar?.title
         return binding.root

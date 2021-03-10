@@ -26,7 +26,7 @@ class MissFragment : Fragment() {
 
         binding.oneMoreTimeButtonM.setOnClickListener {
                 view:View ->
-            view.findNavController().navigate(R.id.action_missFragment_to_quizFragment)
+            view.findNavController().navigate(R.id.action_missFragment_to_welcomeScreenFragment)
         }
         (activity as AppCompatActivity).supportActionBar?.title
         return binding.root
